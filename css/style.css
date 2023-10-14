@@ -111,6 +111,22 @@ body {
     height: 120%;
     z-index: 1;
 }
+.hero-description {
+    color: #333;
+    text-align: center;
+    position: relative;
+}
+
+/* TITLE */
+.title {
+    text-align: center;
+}
+.title-headline {
+    font-size: 120px;
+    padding-top: 300px;
+    padding-bottom: 50px;
+    margin: 0;
+}
 
 /* ABOUT */
 .about {
@@ -146,6 +162,7 @@ body {
     text-align: center;
     justify-content: start;
 }
+
 .artworks-item-headline {
     font-weight: bold;
     font-size: 20px;
