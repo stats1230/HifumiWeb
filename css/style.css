@@ -235,7 +235,7 @@ body {
 }
 
 .chracacter-item-desc {
-    text-align: right;
+    text-align: left;
     justify-content: start;
     padding: 10px 70px;
 }
