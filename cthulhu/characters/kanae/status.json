@@ -1,0 +1,24 @@
+{
+    "name": "かなえ",
+    "age": 30,
+    "gender": "men",
+    "height": 170,
+    "weight": 60,
+    "from": "北海道",
+    "ocupation": "作家",
+    "hair_color": "黒色",
+    "eye_color": "黄色",
+    "skin_color": "肌色",
+    "status": {
+        "STR": 10,
+        "CON": 9,
+        "POW": 9,
+        "DEX": 15,
+        "APP": 14,
+        "SIZ": 13,
+        "INT": 14,
+        "EDU": 16
+    },
+    "skills": {
+    }
+}

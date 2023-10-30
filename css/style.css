@@ -28,7 +28,7 @@ body {
     display: flex;
     align-items: center;
     margin: 0;
-    padding: 0;
+    padding: 40px 0;
     align-items: flex-start;
 }
 .grid-item {
@@ -212,4 +212,30 @@ body {
 .footer-line {}
 .copyright {
     color: #D8C4B6;
+}
+
+/* CHATACTER */
+.character-item {
+    text-align: center;
+    justify-content: start;
+    flex-direction: row-reverse;
+}
+
+.character-item-name {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 0;
+    padding: 0;
+}
+.character-item-img {
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.chracacter-item-desc {
+    text-align: left;
+    justify-content: start;
+    padding: 10px 70px;
 }
