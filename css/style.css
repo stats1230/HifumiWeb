@@ -23,6 +23,12 @@ body {
     font-weight: bold;
     margin: 0 0 40px 0;
 }
+.section-headline2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 0 40px 0;
+}
 
 .grid {
     display: flex;
