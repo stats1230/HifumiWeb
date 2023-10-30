@@ -216,6 +216,7 @@ body {
 
 /* CHATACTER */
 .character-item {
+    text-align: center;
     justify-content: start;
     flex-direction: row-reverse;
 }
@@ -228,7 +229,6 @@ body {
     padding: 0;
 }
 .character-item-img {
-    text-align: center;
     display: inline-block;
     margin: 0;
     padding: 0;
