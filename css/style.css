@@ -216,18 +216,19 @@ body {
 
 /* CHATACTER */
 .character-item {
-    text-align: center;
     justify-content: start;
     flex-direction: row-reverse;
 }
 
 .character-item-name {
+    text-align: center;
     font-weight: bold;
     font-size: 20px;
     margin: 10px 0;
     padding: 0;
 }
 .character-item-img {
+    text-align: center;
     display: inline-block;
     text-align: center;
     margin: 0;
