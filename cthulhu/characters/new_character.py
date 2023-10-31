@@ -1,8 +1,12 @@
 ## packages
 import os
+import shutil
 
 ## カレントディレクトリの設定
-os.chdir('E:\HifumiWeb\cthulhu\characters')
+try:
+    os.chdir('E:\HifumiWeb\cthulhu\characters')
+except:
+    os.chdir('/home/hifumi/BlackCat/hifumi_web/cthulhu/characters')
 
 ## 新しいディレクトリの作成
 character_name = input('name of new character')
@@ -11,4 +15,4 @@ os.mkdir('./' + character_name)
 
 ## 新ディレクトリ内にファイルを作成
 open(file = path + '/chatpalette.txt', mode = 'w', encoding = 'utf-8')
-open(file = path + '/status.csv', mode = 'w',  encoding = 'utf-8')
+shutil.copy('./template/status.json', path)

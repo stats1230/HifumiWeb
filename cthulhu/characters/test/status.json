@@ -1,0 +1,26 @@
+{
+    "info": {
+        "name": "",
+        "age": 0,
+        "gender": "",
+        "height": 0,
+        "weight": 0,
+        "from": "",
+        "ocupation": "",
+        "hair_color": "",
+        "eye_color": "",
+        "skin_color": ""
+},
+    "status": {
+        "STR": 0,
+        "CON": 0,
+        "POW": 0,
+        "DEX": 0,
+        "APP": 0,
+        "SIZ": 0,
+        "INT": 0,
+        "EDU": 0
+    },
+    "skills": {
+    }
+}
