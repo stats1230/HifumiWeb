@@ -3,8 +3,8 @@ import json
 import math
 
 name = input('name of the character')
-cp     = open(f'./cthulhu/characters/{name}/chatpalette.txt', 'r').read()
-with open(f'./cthulhu/characters/{name}/status.json', 'r') as f:
+cp     = open(f'./cthulhu/characters/{name}/chatpalette.txt', 'r', encoding='utf-8_sig').read()
+with open(f'./cthulhu/characters/{name}/status.json', 'r', encoding='utf-8_sig') as f:
     status = json.load(f)
 
 print(cp)

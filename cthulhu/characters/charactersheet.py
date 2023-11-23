@@ -24,7 +24,7 @@ with open('./characters/template/charactersheet.txt', encoding='utf-8') as f:
 data['info']['voice'] = voice
 
 result = text.render(data = data)
-with open('./' + name + '.html', 'w') as f:
+with open('./' + name + '.html', 'w', encoding='utf-8') as f:
     f.write(result)
 
 ## make pdf sheet
