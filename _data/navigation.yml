@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/ja
+  - title: "Cthulhu"
+    url:  /cthulhu/
+  - title: "Portfolio"
+    url: /potfolio/    
+  - title: "Desk"
+    url: /desk/
