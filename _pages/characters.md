@@ -6,7 +6,7 @@ toc: true
 ---
 
 ## 旅館の捕食者
-[![遠藤正義](/assets/images/coc-character/endo-masayoshi.png)](/HifumiWeb/cthulhu/characters/endo-masayoshi){: .align-left style="width: 250px;"}
+![遠藤正義](/assets/images/coc-character/endo-masayoshi.png)(/HifumiWeb/cthulhu/characters/endo-masayoshi){: .align-left style="width: 250px;"}
 
 ### [遠藤正義](/HifumiWeb/cthulhu/characters/endo-masayoshi)
 正義感の強い子に育ちますようにという意図で「正義」という名前をつけられ育った結果、歪んだ正義感を持つようになった。(CV: txumo)
