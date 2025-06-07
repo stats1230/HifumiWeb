@@ -5,13 +5,13 @@ permalink: /cthulhu/
 feature_row:
   - image_path: /assets/images/coc-scenario/ryokan.jpg
     title: "旅館の捕食者"
-    excerpt: "これは1つ目の項目です。"
+    excerpt: ""
   - image_path: /assets/images/coc-scenario/katashiro.jpg
     title: "カタシロ"
-    excerpt: "これが2つ目の項目です。"
+    excerpt: ""
   - image_path: /assets/images/coc-scenario/umikare.jpg
     title: "海も枯れるまで"
-    excerpt: "これが3つ目の項目です。"
+    excerpt: ""
   - image_path: assets/images/coc-scenario/endrole.jpg
     title: 星の神話エンドロール
   - image_path: assets/images/coc-scenario/deus.jpg
@@ -31,7 +31,7 @@ feature_row:
 <div class="text-center">
   <h2>キャラクター名鑑</h2>
   <p>これまでに登場したキャラクターを一覧で表示しています。</p>
-  <a href="/cthulhu/characters" class="btn btn--info" lang="en">キャラクター名鑑</a>
+  <a href="/HifumiWeb/cthulhu/characters" class="btn btn--info" lang="en">キャラクター名鑑</a>
 </div>
 
 <div class="text-center">
