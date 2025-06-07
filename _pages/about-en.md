@@ -5,7 +5,7 @@ permalink: /about/en
 author_profile: true
 ---
 
-<a href="/about/ja/" class="btn btn--info" lang="en">日本語ページへ</a>
+<a href="/HifumiWeb/about/ja/" class="btn btn--info" lang="en">日本語ページへ</a>
 
 # Shunsuke Tatsuno
 I love cats. I am training to be an IR (International Relations) researcher.

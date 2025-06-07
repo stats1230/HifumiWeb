@@ -5,7 +5,7 @@ permalink: /about/ja
 author_profile: true
 ---
 
-<a href="/about/en/" class="btn btn--info" lang="en">Switch to English</a>
+<a href="/HifumiWeb/about/en/" class="btn btn--info" lang="en">Switch to English</a>
 
 
 # 達野俊輔 (たつのしゅんすけ)
