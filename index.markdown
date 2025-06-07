@@ -3,7 +3,7 @@ layout: splash
 author_profile: true
 permalink: /
 header:
-    overlay_image: /assets/images/TATSUNO01_9370.jpg
+    overlay_image: /assets/images/TATSUNO01_9370.JPG
     overlay_filter: 0.3
     actions:
         - label: "About Me"
