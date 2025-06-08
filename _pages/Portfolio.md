@@ -11,6 +11,6 @@ permalink: /portfolio/
 
 このページでは、今までに作ったいろいろなものを展示しています。
 
-## [Videos](/HifumiWeb/portfolio/Videos)
+## [Videos](/HifumiWeb/portfolio/videos)
 作成した動画をまとめて表示しています。
 
